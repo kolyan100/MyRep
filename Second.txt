@@ -2,3 +2,5 @@ Second file for GIT validation
 
 This file also was updated
 <Commit number one>
+
+Update for Master
